@@ -1,0 +1,295 @@
+customer_id,name,city,orders,total_spent
+C0028,Crystal,Theodoreland,13,18672.86
+C0113,Ryan,North Thomashaven,13,23671.46
+C0243,Margaret,Allenside,12,19717.73
+C0268,Gary,Youngborough,11,15999.95
+C0475,Brooke,Edwardmouth,11,17734.0
+C0338,James,Davidberg,11,11296.109999999999
+C0220,Joshua,Rogersport,11,21070.46
+C0108,William,Jonathanport,11,18181.96
+C0406,Kirsten,Lake Jacquelineview,11,18926.300000000003
+C0129,Christopher,Mariamouth,10,24531.920000000002
+C0356,Nathan,Gonzalezfort,10,15857.25
+C0068,Kathy,Gambleport,10,12984.590000000002
+C0258,Paul,East Amyton,10,9588.769999999999
+C0497,Susan,Annaside,10,14891.149999999998
+C0414,Rachel,New Elizabethland,10,12678.399999999998
+C0181,Daniel,Loganfurt,10,17240.57
+C0500,Jasmine,North Mark,10,15602.39
+C0448,Jennifer,New Robertville,10,17981.969999999998
+C0405,Katherine,East Mary,10,18266.969999999998
+C0080,Deborah,Deborahton,10,17292.41
+C0075,David,Robertchester,9,11484.98
+C0491,Tyler,East Samanthaborough,9,20226.649999999998
+C0473,Paul,Lynnview,9,22605.389999999996
+C0388,Carrie,Turnerborough,9,15181.759999999998
+C0256,Ashley,New Laurenland,9,14285.919999999998
+C0237,Tamara,West Davidburgh,9,13321.09
+C0311,Nathaniel,Amandamouth,9,11203.6
+C0466,Chloe,Port Nataliemouth,9,21982.730000000003
+C0354,Bryan,Port Amyfurt,9,13342.39
+C0245,Andrea,North Courtneyborough,9,8705.199999999999
+C0461,Michele,North Keith,9,13385.829999999998
+C0053,James,Maysborough,9,16425.45
+C0235,Alyssa,Sandovalberg,9,15345.730000000001
+C0477,Nathan,New Tiffany,9,18891.829999999998
+C0100,Natalie,East Earlfort,9,12485.430000000002
+C0149,Matthew,East Robertberg,9,15509.85
+C0484,Edward,West Pamelahaven,9,16233.2
+C0267,Steven,Heatherborough,9,16699.05
+C0421,Michael,New Abigailton,9,19264.59
+C0167,Brent,Davidstad,9,19824.780000000002
+C0323,Mitchell,Port Deannaberg,9,18646.79
+C0184,Diane,Port Kennethtown,9,11980.669999999998
+C0217,Kara,Melissatown,8,11947.39
+C0437,Elizabeth,West Patricia,8,13453.26
+C0083,Amanda,Port Ronaldshire,8,12470.91
+C0003,Ellen,South Thomasmouth,8,11503.700000000003
+C0244,Jeremiah,New Laurenview,8,11162.44
+C0499,Rachel,Anthonymouth,8,15102.509999999998
+C0488,Jacob,Jacobberg,8,11686.97
+C0102,Kayla,South Waynefurt,8,14347.43
+C0304,Scott,Rosemouth,8,8969.4
+C0395,Chelsea,Foleymouth,8,15157.28
+C0056,Sarah,Christiantown,8,15822.779999999999
+C0007,James,South Stacy,8,9192.269999999999
+C0355,Christine,Zunigastad,8,11653.63
+C0374,Rodney,Jamesborough,8,16926.47
+C0310,Sarah,Johnsonmouth,8,13308.050000000001
+C0250,Ralph,Maddenfurt,8,16945.6
+C0074,Lisa,Pattersonton,8,12468.150000000001
+C0206,Jacob,Jenkinsburgh,8,12495.710000000001
+C0153,Marissa,Ashleyfurt,8,11830.000000000002
+C0471,Wendy,Craneport,8,14326.53
+C0065,Samuel,South Destiny,8,7916.74
+C0059,Erika,East Sherri,8,11833.08
+C0428,Robert,Waltertown,8,6595.879999999999
+C0364,Sean,Fredbury,8,13631.080000000002
+C0377,Joshua,North Isabella,8,10802.99
+C0092,Laurie,West Gregory,8,15012.87
+C0393,Barry,East Christopher,8,13705.490000000002
+C0424,Stacey,Garymouth,8,16475.15
+C0358,Catherine,East David,8,10895.76
+C0043,Tiffany,East Annabury,8,14668.93
+C0236,Dana,Stephenfort,8,12484.04
+C0002,William,Port Charlesshire,8,17590.079999999998
+C0196,Deanna,Glassshire,7,11938.32
+C0453,Jasmine,West Katrina,7,7559.59
+C0248,Katherine,Porterchester,7,11014.42
+C0024,Amber,Travisfurt,7,14812.94
+C0411,Kent,East Adamfort,7,9993.4
+C0093,Laura,Priceside,7,17921.03
+C0012,Todd,Sarahchester,7,8256.56
+C0455,Stephanie,Danielmouth,7,14196.39
+C0098,Dana,New William,7,11799.599999999999
+C0047,Anthony,Port Elizabethmouth,7,10545.28
+C0264,Tracey,North Lindafurt,7,11575.650000000001
+C0486,Jasmine,East Kristen,7,9876.929999999998
+C0292,Rebecca,East Edward,7,10461.74
+C0138,Corey,West Gregory,7,16417.489999999998
+C0151,Caleb,Stuartbury,7,9298.39
+C0249,Brian,Valeriehaven,7,10984.189999999999
+C0066,Jason,West Phillipbury,7,16837.649999999998
+C0316,Rodney,Francischester,7,9117.25
+C0021,Caitlin,South Mark,7,15832.09
+C0325,Tonya,Chambersland,7,10296.869999999999
+C0040,Wayne,Catherineshire,7,15798.81
+C0372,Eduardo,Hunterstad,7,8727.45
+C0320,Lance,Port Monicamouth,7,8278.550000000001
+C0445,Charles,Whiteville,7,6691.68
+C0057,Anthony,New Douglasberg,7,12883.67
+C0357,Cameron,Sanchezberg,7,11489.279999999999
+C0284,Robert,Hoffmanberg,7,13687.89
+C0064,James,Jefferyshire,7,8026.7699999999995
+C0148,Peter,Lake James,7,11267.55
+C0494,Kristi,South Jamie,7,12231.98
+C0479,Carrie,South Tammybury,7,8424.64
+C0446,William,South Kimberlyton,7,11968.13
+C0247,Keith,Port Lydiamouth,7,7724.17
+C0444,Alexandra,West Jessicaberg,7,8776.26
+C0391,Lindsay,Whiteport,7,11176.06
+C0122,David,New Megan,7,5469.27
+C0363,James,Leahmouth,7,9559.64
+C0333,Christopher,North Isaactown,7,11645.1
+C0044,Jeffrey,New Robert,7,9203.51
+C0034,Raymond,Torresshire,7,12174.41
+C0008,Derrick,Schmidtshire,7,12781.9
+C0086,Kristen,Lake Vicki,7,10027.71
+C0283,Lori,West Stevenville,7,15522.110000000002
+C0224,Christina,New Ashlee,7,10885.47
+C0088,Kimberly,Victoriaview,7,4024.05
+C0157,Russell,Port Heather,7,10352.830000000002
+C0373,Megan,Mcmillanmouth,7,8699.04
+C0286,Brandon,Richardshire,7,11382.41
+C0013,Mindy,Leemouth,7,11272.52
+C0045,Antonio,North Jenniferburgh,7,11380.15
+C0276,Angela,Mcdonaldfurt,7,7162.88
+C0179,Jennifer,Howardton,7,8607.34
+C0079,Wanda,Lake Nancy,7,9923.16
+C0463,James,Lake Brandonberg,7,10515.59
+C0125,Jodi,Valdezberg,7,8866.9
+C0154,Brittany,West Jessica,7,9715.63
+C0350,Michael,North Markton,6,6689.549999999999
+C0104,Wayne,South Luismouth,6,14526.849999999999
+C0348,Misty,Elliottburgh,6,8254.25
+C0360,Clinton,Millerberg,6,6268.66
+C0141,Scott,Samuelland,6,7063.61
+C0452,Melinda,Osbornefort,6,11998.369999999999
+C0133,Haley,West Chad,6,9647.34
+C0171,Ashley,Thomasbury,6,9303.34
+C0255,Jessica,Ramoschester,6,9179.29
+C0106,George,Nicholaston,6,5922.800000000001
+C0050,Sharon,Paulton,6,7811.289999999999
+C0425,Susan,East Tina,6,10856.04
+C0229,Eric,Melissafurt,6,9344.48
+C0219,Steven,West Dave,6,10394.92
+C0156,Lauren,Port Kathryn,6,7992.69
+C0095,Juan,Patriciamouth,6,7997.639999999999
+C0470,David,Tiffanyland,6,7091.84
+C0435,Stephanie,Dianaview,6,7322.429999999999
+C0460,Samuel,East Shawnmouth,6,3767.32
+C0434,Lawrence,West Lisabury,6,10478.880000000001
+C0422,Lisa,Natalieview,6,10817.43
+C0332,Thomas,Port Cassidy,6,5609.379999999999
+C0398,Kyle,Mariahaven,6,7612.62
+C0402,Shawna,Austinberg,6,9403.16
+C0324,Lisa,North Mariafort,6,13269.800000000001
+C0288,Chelsea,Fieldsport,6,9106.61
+C0202,Andrea,Josephbury,6,8431.98
+C0105,Donald,Gloriaton,6,10326.9
+C0193,Scott,New Howard,6,15081.57
+C0046,Jonathan,Carolhaven,6,8163.920000000001
+C0472,Julia,Port Barbaraburgh,6,10545.68
+C0132,Sean,Ryanborough,6,11045.32
+C0439,Julie,North Traci,6,8002.1
+C0431,Scott,Popeburgh,6,8016.68
+C0404,James,Johnside,6,11075.75
+C0175,Jacqueline,Fisherport,6,5642.2300000000005
+C0025,Joseph,South Ashley,6,5793.159999999999
+C0208,Brenda,West Michellechester,6,8303.150000000001
+C0253,Jill,Shanestad,6,13375.17
+C0213,Danielle,Georgeton,6,4810.04
+C0495,Austin,Mikeside,6,16681.87
+C0449,James,Lake Mary,6,12887.11
+C0410,Randy,Bennettfurt,6,6348.63
+C0442,Jacqueline,West Staceystad,6,8917.98
+C0297,Sarah,East Michael,6,10434.84
+C0401,Gregory,Deborahbury,6,7401.529999999999
+C0146,Jillian,Josefort,6,7275.910000000001
+C0315,Heather,Timothyton,6,9949.749999999998
+C0285,Connie,Geoffreychester,6,9703.67
+C0383,Monica,Gloriamouth,6,11625.34
+C0029,Denise,Darrellshire,6,4872.88
+C0296,Angela,Port Cristianhaven,6,7271.31
+C0041,Teresa,Rojaston,6,8401.04
+C0071,Jacqueline,South Evan,6,10086.93
+C0120,Danielle,Underwoodchester,6,10719.500000000002
+C0273,Holly,Lake Shaunchester,6,9272.05
+C0097,Sarah,Anaview,6,9923.6
+C0339,Cynthia,South Baileyfurt,6,13645.220000000001
+C0492,Douglas,Jonathanport,6,6347.5599999999995
+C0408,Zachary,East Kellyfort,6,11466.41
+C0109,Richard,Darrentown,6,7220.1
+C0073,Mary,West Richardborough,6,11356.41
+C0174,Richard,Hernandezton,6,5655.59
+C0353,David,Mooreland,6,3810.02
+C0481,Caitlin,Michaelville,6,12700.48
+C0063,Ashley,Carolchester,6,8092.25
+C0351,Christine,Jasminborough,6,8177.27
+C0190,Lauren,Isabellaton,6,10125.85
+C0490,Jennifer,Brightville,6,12375.48
+C0336,Anna,West Carlosport,6,5202.04
+C0015,Larry,Lake Tammyland,6,8682.560000000001
+C0214,Jennifer,Judithstad,6,5203.75
+C0230,Kimberly,East Robertport,5,10119.39
+C0077,Angela,Port Jasonton,5,10711.11
+C0313,Anthony,Anthonymouth,5,6621.030000000001
+C0103,Deborah,Nicolechester,5,8596.949999999999
+C0464,Danielle,Lake Calvin,5,3480.7599999999998
+C0496,Stephanie,Santosport,5,6306.549999999999
+C0483,Cody,Lake Amandaport,5,7601.9400000000005
+C0160,Kelly,Gomezfurt,5,11140.22
+C0166,Henry,Dustinburgh,5,7107.39
+C0312,Allison,North Edward,5,9591.62
+C0084,Michael,Robinsonhaven,5,5873.429999999999
+C0061,Tonya,New Joannburgh,5,4351.33
+C0189,Thomas,Robertland,5,8085.39
+C0115,Danny,Courtneyhaven,5,9795.54
+C0126,Jennifer,East Lauren,5,3790.38
+C0390,James,Diazbury,5,11036.68
+C0322,Russell,Port Derek,5,5953.5
+C0301,Kevin,Priceberg,5,5925.89
+C0194,Adam,East Danamouth,5,9694.89
+C0180,John,Hollyland,5,5920.57
+C0192,John,West Dustinhaven,5,14973.86
+C0485,Cameron,New Deborahfurt,5,11427.279999999999
+C0407,Adrian,South Jeffreychester,5,4532.41
+C0447,Amber,Laurieton,5,10917.61
+C0210,Adam,Johnburgh,5,5641.73
+C0314,Amy,Lake Vanessa,5,13142.619999999999
+C0252,April,South Joyton,5,7332.429999999999
+C0216,Donna,Port Barbara,5,10702.41
+C0090,Jill,South Jacobville,5,10913.26
+C0112,Shawn,Kimfurt,5,6259.9400000000005
+C0121,Christine,Christopherborough,5,6055.04
+C0081,Heidi,Figueroaborough,5,12215.120000000003
+C0241,William,Berryside,5,10669.499999999998
+C0419,Joseph,Wilsonville,5,5525.1900000000005
+C0134,Kaylee,Rodriguezstad,5,9468.470000000001
+C0418,Stacy,North Laura,5,6661.15
+C0309,Danielle,Mitchellshire,5,15738.3
+C0052,Wendy,Lake David,5,9468.06
+C0328,Laura,North Justin,5,7387.039999999999
+C0331,Michael,Josephborough,5,10710.36
+C0480,Jamie,Nicolebury,5,5820.22
+C0269,Martin,Haletown,5,4755.32
+C0070,Charles,South Patriciatown,5,3949.76
+C0415,Jeffrey,Fostertown,5,6675.320000000001
+C0135,Elizabeth,West Sheilafort,5,8214.65
+C0321,Matthew,Mcbrideside,5,4199.800000000001
+C0378,Frank,East Thomasshire,5,4281.79
+C0159,Julie,Moralesmouth,5,5843.38
+C0420,James,Bethshire,5,9709.16
+C0436,Joseph,West Charlesshire,5,10880.480000000001
+C0203,Adrian,West Jacqueline,5,3913.1200000000003
+C0031,Neil,East Kathytown,5,6100.0199999999995
+C0274,Kevin,East Benjamin,5,4908.9
+C0280,James,Debramouth,5,10460.22
+C0337,Matthew,West Travis,5,16611.97
+C0048,James,South Dawnland,5,10154.63
+C0345,Brian,New Jeffreyton,5,9799.49
+C0004,Sheri,West Megan,5,8390.49
+C0096,Keith,North Billy,5,9928.779999999999
+C0232,Kenneth,Jenniferstad,5,6210.66
+C0327,Stephanie,Amandafurt,5,8005.289999999999
+C0183,Brett,North Samuelfort,5,8927.44
+C0308,Jeffrey,Lake Robin,5,9086.32
+C0147,Tracy,Jeremytown,5,3620.9300000000003
+C0441,Tyler,East Shelly,5,9521.61
+C0116,Michelle,Port Larryhaven,5,7370.38
+C0137,Audrey,Mooreside,5,6144.63
+C0017,Desiree,Moorestad,5,11929.0
+C0416,Derek,North Mary,5,9567.54
+C0340,Daniel,Garciaberg,5,7021.24
+C0290,Thomas,East Brendaton,5,9114.3
+C0185,Jason,West Jason,5,5964.71
+C0379,Roger,Contreraschester,5,9723.18
+C0498,Spencer,Harrisside,5,12815.93
+C0457,William,New Kathrynberg,5,7266.719999999999
+C0019,Karen,South Denise,5,10384.28
+C0199,Benjamin,Mooreburgh,5,7137.71
+C0375,Eric,North Jonathanview,5,7233.7
+C0055,Scott,Austinmouth,5,7175.009999999999
+C0009,Jennifer,Millsberg,5,4943.75
+C0478,Tyrone,Wolfefort,5,5762.139999999999
+C0277,James,West Melissaville,5,9881.05
+C0197,Keith,New Lauren,5,10286.87
+C0218,Theodore,East Mirandafurt,5,10643.689999999999
+C0423,Janice,South Julia,5,8754.24
+C0487,Christina,Rivasburgh,5,11758.220000000001
+C0014,Lindsey,Robertberg,5,8593.669999999998
+C0172,Kelsey,Karihaven,5,8402.56
+C0417,Tiffany,Ericatown,5,12449.529999999999
+C0291,Rebecca,Susanside,5,7834.43
+C0385,Johnathan,Lake Christopherhaven,5,7136.73
+C0259,Stephanie,East Jenniferfurt,5,11315.39
